@@ -1,0 +1,8 @@
+path: ./dataset_split_tiling
+train: train/images
+val: val/images
+
+nc: 3
+
+# 0, 1 , 2
+names: ['building', 'road', 'pedestrian']
